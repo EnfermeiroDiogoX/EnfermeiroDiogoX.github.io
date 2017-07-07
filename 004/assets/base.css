@@ -114,6 +114,7 @@ a:hover {
   font-size: 2em;
   line-height: 120%;
   text-align: left;
+  max-width: 60%;
 }
 .summary {
   color: #ffffff;
