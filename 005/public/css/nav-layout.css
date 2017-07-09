@@ -70,8 +70,8 @@ header {
 	z-index: 901;
 	padding-left: 10px;
 	line-height: 4.4rem;
-	background: #26201C;
-	color: #A69A94;
+	background: #00a087;
+	color: #ffffff;
 }
 
 header h1 {
@@ -87,7 +87,7 @@ header h1:before {
 
 .container {
 	margin-top: 90px;
-	margin-left: 12px;
+	margin-left: 18px;
 	margin-right: 12px;
 }
 
@@ -102,8 +102,8 @@ header h1:before {
 	cursor: pointer;
 	text-decoration: none;
 	line-height: 4.4rem;
-	background: #26201C;
-	color: #A69A94;
+	background: #00a087;
+	color: #ffffff;
 }
 
 .nav-button {
@@ -144,29 +144,29 @@ header h1:before {
 .nav {
 	padding-top: 0; /* 4.4rem; */
 	line-height: 4.4rem;
-	background: #26201C;
-	color: #A69A94;
+	background: #00a087;
+	color: #ffffff;
 }
 
 .nav ul {
 	border-radius: 0 0 6px 6px;
-	background: #26201C;
+	background: #008771;
 }
 
 .nav ul ul {
-	background: #2f2722;
+	background: #006d5c;
 }
 
 .nav ul ul ul {
-	background: #382f29;
+	background: #005446;
 }
 
 .nav ul ul ul ul {
-	background: #40362f;
+	background: #003a31;
 }
 
 .nav ul ul ul ul ul {
-	background: #493e36;
+	background: #00211b;
 }
 
 .nav li {
@@ -176,12 +176,12 @@ header h1:before {
 
 .nav li:hover > a,
 .nav li.nav-active > a {
-	color: #923600;
-	background: #2E2722;
+	color: #ffff00;
+	background: #00b397;
 }
 
 .nav .nav-submenu > ul {
-	margin-left: 10px;
+	margin-left: 30px;
 }
 
 .nav .nav-submenu > a {
@@ -193,8 +193,8 @@ header h1:before {
 .nav a:active,
 .nav a:visited {
 	border-radius: 6px;
-	padding: 0 15px 1px;
-	color: #8C827D;
+	padding: 0 30px 1px;
+	color: #ffffff;
 	text-decoration: none;
 }
 

@@ -101,8 +101,8 @@ header {
 	z-index: 901;
 	padding-left: 10px;
 	line-height: 4.4rem;
-	background: #26201C;
-	color: #A69A94;
+	background: #00a087;
+	color: #ffffff;
 }
 
 header h1 {
@@ -127,8 +127,8 @@ header h1:before {
 	cursor: pointer;
 	text-decoration: none;
 	line-height: 4.4rem;
-	background: #26201C;
-	color: #A69A94;
+	background: #00a087;
+	color: #ffffff;
 }
 
 .nav-button:before,
@@ -160,13 +160,13 @@ header h1:before {
 .nav {
 	padding-top: 4.4rem;
 	line-height: 4.4rem;
-	background: #26201C;
-	color: #A69A94;
+	background: #00a087;
+	color: #ffffff;
 }
 
 .nav ul {
 	border-radius: 0 0 6px 6px;
-	background: #26201C;
+	background: #00a087;
 }
 
 .nav ul ul {
@@ -210,7 +210,7 @@ header h1:before {
 .nav a:visited {
 	border-radius: 6px;
 	padding: 0 15px 1px;
-	color: #8C827D;
+	color: #ffffff;
 	text-decoration: none;
 }
 
